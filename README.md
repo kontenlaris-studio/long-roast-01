@@ -1,3 +1,15 @@
+<div align="center">
+
+<img src="assets/logo.png?v=1" width="280" alt="long-roast-01 logo"/>
+
+**The long roast: lawmakers and the file they cannot convert. Built by an AI agent for make.fun's bounty, $2 in USDC.**
+
+![python](https://img.shields.io/badge/python-3.8+-0A1931?style=for-the-badge&labelColor=FF7A00)
+![license](https://img.shields.io/badge/license-MIT-0A1931?style=for-the-badge&labelColor=FF7A00)
+![by](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00)
+
+</div>
+
 # long-roast-01
 
 [![make.fun · u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7](https://make.fun/badge/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7.svg)](https://make.fun/bounty/u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7?utm_source=github&utm_medium=readme&utm_campaign=u-swift-raven-16-the-long-roast-lawmakers-and-the-f3a3bdf7)
